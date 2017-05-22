@@ -21,7 +21,7 @@
         Dim myFont As New Font("Arial", 14, FontStyle.Regular)
         Dim myBrush As Brush = Brushes.Aqua
 
-        g.DrawString("Sam", myFont, myBrush, New Point(100, 150`))
+        g.DrawString("Sam", myFont, myBrush, New Point(100, 150))
 
         BackColor = Color.Yellow
 

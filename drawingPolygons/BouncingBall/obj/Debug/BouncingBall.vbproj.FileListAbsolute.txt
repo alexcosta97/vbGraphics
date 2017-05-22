@@ -1,0 +1,11 @@
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\bin\Debug\BouncingBall.exe.config
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\bin\Debug\BouncingBall.exe
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\bin\Debug\BouncingBall.pdb
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\bin\Debug\BouncingBall.xml
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.vbprojResolveAssemblyReference.cache
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.Resources.resources
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.vbproj.GenerateResource.Cache
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.exe
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.xml
+F:\Users\Alex\Documents\samVB\vbGraphics\drawingPolygons\BouncingBall\obj\Debug\BouncingBall.pdb
