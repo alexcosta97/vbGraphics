@@ -11,6 +11,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rectangles(6.2Part2)", "Rec
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BouncingBall", "BouncingBall\BouncingBall.vbproj", "{B70E6D91-3F1C-4988-9D33-B80A95D3B9B2}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "drawingSkills", "drawingSkills\drawingSkills.vbproj", "{540D9CFB-7293-4893-A21D-EFB9FEC115CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B70E6D91-3F1C-4988-9D33-B80A95D3B9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B70E6D91-3F1C-4988-9D33-B80A95D3B9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B70E6D91-3F1C-4988-9D33-B80A95D3B9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540D9CFB-7293-4893-A21D-EFB9FEC115CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540D9CFB-7293-4893-A21D-EFB9FEC115CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540D9CFB-7293-4893-A21D-EFB9FEC115CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540D9CFB-7293-4893-A21D-EFB9FEC115CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
